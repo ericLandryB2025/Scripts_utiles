@@ -10,6 +10,8 @@ import os
 import time
 import getpass
 
+# Affiche la date et l'heure actuelles
+print(f"Date et heure actuelles : {time.ctime()}")
 #Afficher le nom de l'utilisateur
 print(f"Nom de l'utilisateur : {getpass.getuser()}")
 
