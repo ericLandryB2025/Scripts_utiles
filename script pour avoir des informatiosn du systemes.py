@@ -1,13 +1,17 @@
 # -----------------------------------------------------------------------------
-# Script : lab3_script4.py
+# Script : 
 # Auteur : eric badou
 # Description : ce script permet davoir des informations du systeme 
 # Paramètres : 
-# Date : 2025-02-19
+# Date : 
 # -----------------------------------------------------------------------------
 
 import os
 import time
+import getpass
+
+#Afficher le nom de l'utilisateur
+print(f"Nom de l'utilisateur : {getpass.getuser()}")
 
 #Afficher le chemin et nom du dossier courant.
 DossierCourant= os.getcwd()
