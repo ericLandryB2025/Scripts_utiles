@@ -1,7 +1,7 @@
 # Fonctionnalité A : Script utile Powershell pour création des groupes active directory
 # -----------------------------------------------------------------------------
 # Script : [creerGroupe.ps1]
-# Auteur : [Jane Grace Davis Ngo Massing Soun]
+# Auteur : [Jane Grace Davis Ngo Massing Soun et eric badou]
 # Description : [CE script permet de créer des groupes AD dont leurs informations se trouvent dans un fichier csv]
 # Paramètres : [Fichier, nomgroupe]
 # Date : [2025-04-11]
